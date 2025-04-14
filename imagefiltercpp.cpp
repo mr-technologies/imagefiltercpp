@@ -53,7 +53,7 @@ namespace iff = iffwrapper;
 #endif
 
 
-constexpr char CONFIG_FILENAME[] = "imagefilter.json";
+constexpr char CONFIG_FILENAME[] = "imagefiltercpp.json";
 
 int main()
 {
